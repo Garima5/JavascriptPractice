@@ -44,6 +44,6 @@
 37. How to create a Stripe payment menu page
 38. How to create a shopping cart page
 39. How to create a cocktail search page
-TypeScript Projects
+### TypeScript Projects
 40. How to build a Quiz App with React and TypeScript
 41. How to create an Arkanoid game with TypeScript
